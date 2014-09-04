@@ -1,7 +1,7 @@
 {
   "name": "ensure-unique",
   "description": "Ensure unique id (rethinkdb)",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Nathan Tran <ntran013@gmail.com>",
   "license": "MIT",
   "repository": "ntran13/ensure-unique",
